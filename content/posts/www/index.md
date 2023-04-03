@@ -1,7 +1,7 @@
 +++
 title = "www"
 date = "2023-04-03"
-draft = true
+draft = false
 pinned = false
 description = "ijcjiodjdioj"
 footnotes = "avavjiasvjidasvovsdjioasdvjiosadvjp"
