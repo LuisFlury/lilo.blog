@@ -674,7 +674,7 @@ Unsere Welt fühlt sich normal an. Es scheint, als hätten wir schon immer so ge
 
 Doch im Laufe der Zeit haben wir unsere eigene Welt erschaffen. Durch die Agrarrevolution wurden wir sesshaft und seit den industriellen Revolutionen wächst unser Wohlstand exponentiell. Plötzlich fanden wir uns in einer Welt wieder, in der wir nicht mehr ums Überleben kämpfen mussten. Trotzdem haben wir immer noch die gleichen Grundgefühle und Grundbedürfnisse wie unsere Vorfahren. Das ist ein Problem, denn heute haben wir Bedürfnisse, die nicht mehr zeitgemäß sind. Zum Beispiel ist es heute nicht überlebenswichtig, Anerkennung von Mitmenschen zu erhalten, aber wir leiden dennoch, wenn diese wegfallen. Das Bedürfnis nach sozialer Anerkennung beachten wir zwar, aber das gilt nicht für alle Bedürfnisse. Als wir noch Nomaden waren, war es zum Beispiel überlebenswichtig, unsere Umwelt zu kennen. Daher entwickelten wir das Bedürfnis, unsere Umgebung zu erkunden und zu erforschen. Heute ist dieses Bedürfnis überflüssig, weshalb wir es nicht ausreichend beachten. Somit leben wir heute in einer Welt, die nicht vollständig auf unsere Bedürfnisse angepasst ist.
 
-«Geld ist wichtig um glücklich zu werden» ~ Reto Odermatt
+> «Geld ist wichtig um glücklich zu werden» ~ Reto Odermatt
 
 Geld sei wichtig für die Zufriedenheit und es könne glücklich machen, aber das Entscheidende am Geld sei nicht möglichst viel davon zu haben, sondern genug, um ein würdevolles Leben führen zu können, schildert Herr Odermatt. Ein Leben ohne ständige Schweissausbrüche, ohne die Angst, dass der Lohn nicht bis Ende des Monats ausreichen wird, ein Leben, in dem Geld nicht als wichtigster Faktor angesehen wird. Armut und finanzielle Unsicherheiten seien sehr starke Unzufriedenheitsfaktoren. Wenn man den ganzen Tag nur daran denken muss, wie man sein Geld verwalten soll, und wenn man ständig Angst vor Verlusten hat, führe dies über kurz oder lang zu großer Unzufriedenheit.
 
@@ -692,7 +692,7 @@ In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlic
 
 Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Zufriedenheit, verriet uns Herr Odermatt. Es sei wichtig, dass man sich ernstgenommen fühlt und vom Arbeitsgeber wertgeschätzt wird. Es sei wichtig, dass man sich selbst bewusst ist, welchen Beitrag man mit seiner Arbeit leistet und wie welchen Wert man als Person für das Unternehmen, die Gemeinde oder für den Staat hat. Wenn man sich der eigenen Wichtigkeit am Arbeitsplatz bewusst ist, verbessere es deutlich die Zufriedenheit am Arbeitsplatz.
 
-«Zufriedenheit am Arbeitsplatz ist wichtiger als der Lohn» ~ Ueli Käser
+> «Zufriedenheit am Arbeitsplatz ist wichtiger als der Lohn» ~ Ueli Käser
 
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr groß war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
 
