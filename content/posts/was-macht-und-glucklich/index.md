@@ -4,13 +4,13 @@ date = "2023-05-04"
 draft = false
 pinned = false
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ pinned = false
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ pinned = false
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -656,11 +656,9 @@ pinned = false
 	mso-ansi-language:DE-CH;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--StartFragment-->
-
-Was macht uns glücklich?
+> <!--StartFragment-->
 
 **Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird ab Tag eins eingetrichtert, dass Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer erfolgreich ist, verdient viel Geld und wird glücklich und zufrieden. Brauchen wir all das? Brauchen wir viel Geld, um glücklich zu werden?**
 
@@ -672,8 +670,6 @@ In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtscha
 
 Unsere Welt fühlt sich normal an. Es scheint, als hätten wir schon immer so gelebt wie heute. Wir haben uns eine Welt geschaffen, in der wir nicht mehr ums Überleben kämpfen müssen. Essen, ein Zuhause, staatlicher Schutz und medizinische Versorgung fühlen sich selbstverständlich an, sind es aber nicht. Über 99,9% der Menschheitsgeschichte lebten wir noch ganz anders. Als der erste Mensch vor 4,4 Millionen Jahren das Licht der Welt erblickte, sah sein Alltag noch ganz anders aus. Er war ein nomadischer Sammler und Jäger und lebte in Gruppen von 20-150 Menschen. Durch die Evolution veränderte sich der Mensch und passte sich seiner Umgebung an. Wenn uns etwas passierte oder wir etwas taten, das unsere Überlebenschancen verringerte, wurden wir mit unangenehmen Gefühlen bestraft. Bei Ereignissen, welche unsere Überlebenschancen steigerten, wurden wir hingegen mit guten Gefühlen belohnt. So haben sich alle Gefühle und Bedürfnisse entwickelt, weil sie zu dieser Zeit die Überlebenschancen steigerten.
 
-
-
 # Das Problem der heutigen Zivilisation
 
 Doch im Laufe der Zeit haben wir unsere eigene Welt erschaffen. Durch die Agrarrevolution wurden wir sesshaft und seit den industriellen Revolutionen wächst unser Wohlstand exponentiell. Plötzlich fanden wir uns in einer Welt wieder, in der wir nicht mehr ums Überleben kämpfen mussten. Trotzdem haben wir immer noch die gleichen Grundgefühle und Grundbedürfnisse wie unsere Vorfahren. Das ist ein Problem, denn heute haben wir Bedürfnisse, die nicht mehr zeitgemäß sind. Zum Beispiel ist es heute nicht überlebenswichtig, Anerkennung von Mitmenschen zu erhalten, aber wir leiden dennoch, wenn diese wegfallen. Das Bedürfnis nach sozialer Anerkennung beachten wir zwar, aber das gilt nicht für alle Bedürfnisse. Als wir noch Nomaden waren, war es zum Beispiel überlebenswichtig, unsere Umwelt zu kennen. Daher entwickelten wir das Bedürfnis, unsere Umgebung zu erkunden und zu erforschen. Heute ist dieses Bedürfnis überflüssig, weshalb wir es nicht ausreichend beachten. Somit leben wir heute in einer Welt, die nicht vollständig auf unsere Bedürfnisse angepasst ist.
@@ -682,11 +678,7 @@ Doch im Laufe der Zeit haben wir unsere eigene Welt erschaffen. Durch die Agrarr
 
 Geld sei wichtig für die Zufriedenheit und es könne glücklich machen, aber das Entscheidende am Geld sei nicht möglichst viel davon zu haben, sondern genug, um ein würdevolles Leben führen zu können, schildert Herr Odermatt. Ein Leben ohne ständige Schweissausbrüche, ohne die Angst, dass der Lohn nicht bis Ende des Monats ausreichen wird, ein Leben, in dem Geld nicht als wichtigster Faktor angesehen wird. Armut und finanzielle Unsicherheiten seien sehr starke Unzufriedenheitsfaktoren. Wenn man den ganzen Tag nur daran denken muss, wie man sein Geld verwalten soll, und wenn man ständig Angst vor Verlusten hat, führe dies über kurz oder lang zu großer Unzufriedenheit.
 
- 
-
 Mehr Geld macht nur dann glücklicher, wenn es die finanziellen Unsicherheiten lindert, bei einem höheren Einkommensniveau hätte der einzelne Franken hingegen einen geringeren Einfluss auf die Zufriedenheit.
-
- 
 
 Diese Sorglosigkeit kann aber auch Einfluss auf unsere Dankbarkeit nehmen. Wenn es selbstverständlich ist, dass man sich nicht ständig Gedanken über Investitionen machen muss, gerät oft die Wertschätzung in den Hintergrund.
 
@@ -694,11 +686,7 @@ Diese Sorglosigkeit kann aber auch Einfluss auf unsere Dankbarkeit nehmen. Wenn 
 
 Uns seien nicht immer alle Informationen Präsent, ob Gefühle, Ängste, Aufgaben oder andere Informationen, die irgendwo in unserem Gehirn gespeichert sind. Indem wir uns immer wieder bewusst machen, was wir eigentlich haben, hilft uns, mit Unsicherheit in Situationen wie in denen Stress oder Ängste grossen Einfluss haben, besser umgehen zu können. Dankbarkeit ist eine positive Gefühlserfahrung, welche jeder hin und wieder mal erfahren sollte.
 
- 
-
 In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlich. In dieser Stadt hat es laut Wikipedia 1.87 Millionen Einwohner, die alle eng aneinander leben. Es gibt die Reichen, die Sorte Menschen, denen die Hotels gehören, grosse Passagier Schiffe besitzen oder Geschäftsführer eines anderweitigen Geschäftes oder Unternehmens sind. Diese Leute findet man kaum auf den Strassen, sie sitzen in ihren klimatisierten Häusern mit Strom und fliessendem Wasser. Diesen Leuten geht es aus finanzieller Sicht gut. Auf der anderen Seite jedoch, gibt es Kinder, Eltern und Grosseltern, welche diese Privilegien nicht besitzen. Sie kämpfen Tag für Tag um ihr Essen, ihr Trinken, ihren Schlafplatz und schlussendlich um ihr Überleben. Alle müssen mithelfen, ob klein, jung, alt, gross, dick oder dünn, jeder Liiere zählt. Die Menschen wirken erschöpft, sie sind müde und kraftlos, dass einzige was ihnen hilft, ist ihr Glaube, ihre Familien und ihre Freunde, die sich alle gegenseitig unterstützen, wo sie können.  Diese Menschen zeigen mir erneut, wie dieser finanzielle Unterschied das glücklich Sein erschweren kann. Auf mich wirken diese Leute trotz allem keineswegs undankbar, im Gegenteil. Die ärmeren Leute in Assuan freuen sich über weitaus kleinere Dinge als wir es tun, Wertschätzung sei für sie sehr wichtig, verriet uns ein Händler auf der Strasse, und bekanntlich ist mit Wertschätzung auch Dankbarkeit verknüpft.
-
- 
 
 # Zufriedenheit am Arbeitsplatz
 
@@ -720,14 +708,12 @@ Das Streben nach Glück macht uns nicht glücklich und wird zu unglücklicher f�
 
 Um glücklich zu werden, muss man den Zustand des Strebens hinter sich lassen und das Hier-und-Jetzt akzeptieren, genau so wie es ist. Man sollte Ziele so setzen, das der Weg dorthin einem Freude bereitet. Am wichtigsten ist, Freude am Tun zu entwickeln und nicht nur in den Zielen danach zu suchen.
 
-«There is no road to happiness because happiness is the road. » ~ Buddha
+> «There is no road to happiness because happiness is the road. » ~ Buddha
 
 Jeder Mensch hat mit Sicherheit etwas, das er oder sie gut kann und mit voller Leidenschaft tut. Genau solche Dinge sollte man tun, denn im Zustand der Leidenschaft entsteht tausendmal mehr Glück als im Zustand des Strebens. Eine weitere Kunst, die zum Glück führt, ist es, sein Glück von nichts abhängig zu machen und trotzdem jeden Moment zu genießen.
 
 # Tipp to go
 
 Dankbarkeit ist eine der wichtigsten Eigenschaften, um Glück zu erreichen. Sie hilft uns, das Hier und Jetzt so anzunehmen, wie es ist. Forscher haben herausgefunden, dass Dankbarkeit sogar trainiert werden kann. Eine der besten Methoden ist ein Dankbarkeitstagebuch. Jeden Abend nur fünf Minuten Zeit nehmen und drei Dinge aufschreiben, für die man dankbar ist, kann bereits einen großen Unterschied machen. Ich schreibe schon seit langem ein Dankbarkeitstagebuch und merke, dass es meinen Blick mehr auf das Positive im Leben lenkt.
-
- 
 
 <!--EndFragment-->
