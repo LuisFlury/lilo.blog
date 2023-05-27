@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = ""
+logo = "/media/idea-ga91204cb5_640.jpg"
+image = "/media/chess-g06f9bd78f_640.jpg"
 color = "#5d9fbd"
 +++
