@@ -4,7 +4,7 @@ date = "2023-05-04"
 draft = false
 pinned = false
 image = "sunset-g8ef3de9b2_640.jpg"
-description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch aus irgendeinem Grund fühlen wir uns trotzdem oft unglücklich. "
+description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch aus irgendeinem Grund fühlen wir uns trotzdem oft unglücklich. Es scheint, als ob es mehr bräuchte, als nur mit krampf allen Erwartungen und Zielen gerecht zu werden. "
 +++
 <!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
