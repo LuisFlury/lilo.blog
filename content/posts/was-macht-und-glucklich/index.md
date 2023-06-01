@@ -11,8 +11,6 @@ description = "Wie werden wir in unseren Gesellschaft glücklich und zufrieden? 
 
 **Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird ab Tag eins eingetrichtert, dass Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer erfolgreich ist, verdient viel Geld und wird glücklich und zufrieden. Doch: Brauchen wir all das? Brauchen wir viel Geld, um glücklich zu werden?**
 
-
-
 <!--EndFragment-->
 
 # Wie wird Glück gemessen?
