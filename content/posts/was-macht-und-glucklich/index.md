@@ -11,7 +11,7 @@ description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch a
 
 # Wie wird Glück gemessen?
 
-![Reto Odermatt ](bild3.jpg)
+![Reto Odermatt von wwz](bild3.jpg "Reto Odermatt ")
 
 In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtschaftswissenschaftlichen Fakultät WWZ, fanden wir Antworten auf diese Frage. Er verriet uns, dass die üblichste Variante, um Glück zu messen sei die Menschen zu fragen: «Auf einer Skala von sehr unzufrieden bis sehr zufrieden, wie zufrieden insgesamt sind Sie mit Ihrem Leben?» Man überliesse die Frage den Menschen selbst, indem sie sich selbst einschätzen. Dabei sei aber die Validität ein wichtiger Aspekt. Wie verlässlich sind die Selbsteinschätzungen der Menschen? Diese «Messfehler» würden aber hintergangen werden können, indem man weitere Aspekte dazu nimmt, wie zum Beispiel, ob die Menschen mehr oder weniger lachen, ob sie objektiv gemessen gesundheitlich gesünder sind oder ob sie einen tieferen Stresspegel haben. So könne ein Abgleich gemacht werden, ob die Aussagen aussagekräftig sind, erklärt Odermatt.
 
@@ -49,7 +49,7 @@ Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Z
 
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr groß war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
 
-![Ueli Käser ](bild4.jpg)
+![Ueli Käser, Busfahrer Bernmobil, intranet.bernmobil.ch ](bild4.jpg "Ueli Käser")
 
 # Warum es nie genug sein wird
 
