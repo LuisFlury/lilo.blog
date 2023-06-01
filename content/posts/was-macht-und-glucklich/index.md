@@ -5,9 +5,15 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "sunset-g8ef3de9b2_640.jpg"
-description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch aus irgendeinem Grund fühlen wir uns trotzdem oft unglücklich. Doch was macht uns langfristig glücklich? In unserer Gesellschaft gibt es viele Antworten auf diese Frage, doch welche stimmen wirklich?"
+description = "Wie werden wir in unseren Gesellschaft glücklich und zufrieden? Dieser Frage gehen wir in unserer Reportage auf den Grund."
 +++
-**Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird ab Tag eins eingetrichtert, dass Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer erfolgreich ist, verdient viel Geld und wird glücklich und zufrieden. Brauchen wir all das? Brauchen wir viel Geld, um glücklich zu werden?**
+<!--StartFragment-->
+
+**Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird ab Tag eins eingetrichtert, dass Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer erfolgreich ist, verdient viel Geld und wird glücklich und zufrieden. Doch: Brauchen wir all das? Brauchen wir viel Geld, um glücklich zu werden?**
+
+
+
+<!--EndFragment-->
 
 # Wie wird Glück gemessen?
 
