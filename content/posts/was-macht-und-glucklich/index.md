@@ -17,6 +17,8 @@ In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtscha
 
 # Glück braucht Gefühle
 
+![](bild2.jpg)
+
 Unsere Welt fühlt sich normal an. Es scheint, als hätten wir schon immer so gelebt wie heute. Wir haben uns eine Welt geschaffen, in der wir nicht mehr ums Überleben kämpfen müssen. Essen, ein Zuhause, staatlicher Schutz und medizinische Versorgung fühlen sich selbstverständlich an, sind es aber nicht. Über 99,9% der Menschheitsgeschichte lebten wir noch ganz anders. Als der erste Mensch vor 4,4 Millionen Jahren das Licht der Welt erblickte, sah sein Alltag noch ganz anders aus. Er war ein nomadischer Sammler und Jäger und lebte in Gruppen von 20-150 Menschen. Durch die Evolution veränderte sich der Mensch und passte sich seiner Umgebung an. Wenn uns etwas passierte oder wir etwas taten, das unsere Überlebenschancen verringerte, wurden wir mit unangenehmen Gefühlen bestraft. Bei Ereignissen, welche unsere Überlebenschancen steigerten, wurden wir hingegen mit guten Gefühlen belohnt. So haben sich alle Gefühle und Bedürfnisse entwickelt, weil sie zu dieser Zeit die Überlebenschancen steigerten.
 
 # Das Problem der heutigen Zivilisation
