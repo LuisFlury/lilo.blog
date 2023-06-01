@@ -49,7 +49,7 @@ Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Z
 
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr groß war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
 
-![](bild4.jpg)
+![Ueli Käser ](bild4.jpg)
 
 # Warum es nie genug sein wird
 
