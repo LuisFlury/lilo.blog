@@ -17,8 +17,6 @@ In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtscha
 
 ![Reto Odermatt, von wwz.unibas.ch](https://sophiemesserliblog.netlify.app/was-macht-uns-glucklich/reto.jpg "Reto Odermatt, von wwz.unibas.ch")
 
-Reto Odermatt, von wwz.unibas.ch
-
 ## Glück braucht Gefühle
 
 Unsere Welt fühlt sich normal an. Es scheint, als hätten wir schon immer so gelebt wie heute. Wir haben uns eine Welt geschaffen, in der wir nicht mehr ums Überleben kämpfen müssen. Essen, ein Zuhause, staatlicher Schutz und medizinische Versorgung fühlen sich selbstverständlich an, sind es aber nicht. Über 99,9% der Menschheitsgeschichte lebten wir noch ganz anders. Als die ersten Menschen vor 4,4 Millionen Jahren lebten, sah der Alltag noch ganz anders aus. Der Mensch war ein nomadischer Sammler und Jäger und lebte in Gruppen von 20-150 Menschen. Durch die Evolution veränderte sich der Mensch und passte sich seiner Umgebung an. Wenn uns etwas passierte oder wir etwas taten, das unsere Überlebenschancen verringerte, wurden wir mit unangenehmen Gefühlen bestraft. Bei Ereignissen, welche unsere Überlebenschancen steigerten, wurden wir hingegen mit guten Gefühlen belohnt. So haben sich alle Gefühle und Bedürfnisse entwickelt, weil sie zu dieser Zeit die Überlebenschancen steigerten. 
@@ -39,8 +37,6 @@ In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlic
 
 ![Markt in Aswan (Ägypten), fotografiert von Daniel Messerli, April 2023](https://sophiemesserliblog.netlify.app/was-macht-uns-glucklich/asuan.jpg "Markt in Aswan (Ägypten), fotografiert von Daniel Messerli, April 2023")
 
-Markt in Aswan (Ägypten), fotografiert von Daniel Messerli, April 2023
-
 ## Zufriedenheit am Arbeitsplatz
 
 Auch die Zufriedenheit am Arbeitsplatz nehme einen großen Einfluss auf unsere Zufriedenheit, sagte uns Herr Odermatt. Es sei wichtig, dass man sich ernstgenommen fühlt und vom Arbeitgeber wertgeschätzt wird. Es sei wichtig, dass man sich selbst bewusst ist, welchen Beitrag man mit seiner Arbeit leistet und welchen Wert man als Person für das Unternehmen, die Gemeinde oder den Staat hat. Wenn man sich der eigenen Wichtigkeit am Arbeitsplatz bewusst ist, verbessere es deutlich die Zufriedenheit am Arbeitsplatz.
@@ -50,8 +46,6 @@ Auch die Zufriedenheit am Arbeitsplatz nehme einen großen Einfluss auf unsere Z
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, der täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr groß war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft, und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
 
 ![Ueli Käser, Busfahrer Bernmobil, intranet.bernmobil.ch](https://sophiemesserliblog.netlify.app/was-macht-uns-glucklich/ueli.jpg "Ueli Käser, Busfahrer Bernmobil, intranet.bernmobil.ch")
-
-Ueli Käser, Busfahrer Bernmobil, intranet.bernmobil.ch
 
 ## Warum es nie genug sein wird
 
