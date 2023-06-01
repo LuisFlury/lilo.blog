@@ -11,7 +11,7 @@ description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch a
 
 # Wie wird Glück gemessen?
 
-![](bild3.jpg "Reto Odermatt")
+![Reto Odermatt ](bild3.jpg)
 
 In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtschaftswissenschaftlichen Fakultät WWZ, fanden wir Antworten auf diese Frage. Er verriet uns, dass die üblichste Variante, um Glück zu messen sei die Menschen zu fragen: «Auf einer Skala von sehr unzufrieden bis sehr zufrieden, wie zufrieden insgesamt sind Sie mit Ihrem Leben?» Man überliesse die Frage den Menschen selbst, indem sie sich selbst einschätzen. Dabei sei aber die Validität ein wichtiger Aspekt. Wie verlässlich sind die Selbsteinschätzungen der Menschen? Diese «Messfehler» würden aber hintergangen werden können, indem man weitere Aspekte dazu nimmt, wie zum Beispiel, ob die Menschen mehr oder weniger lachen, ob sie objektiv gemessen gesundheitlich gesünder sind oder ob sie einen tieferen Stresspegel haben. So könne ein Abgleich gemacht werden, ob die Aussagen aussagekräftig sind, erklärt Odermatt.
 
@@ -39,6 +39,8 @@ Uns seien nicht immer alle Informationen Präsent, ob Gefühle, Ängste, Aufgabe
 
 In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlich. In dieser Stadt hat es laut Wikipedia 1.87 Millionen Einwohner, die alle eng aneinander leben. Es gibt die Reichen, die Sorte Menschen, denen die Hotels gehören, grosse Passagier Schiffe besitzen oder Geschäftsführer eines anderweitigen Geschäftes oder Unternehmens sind. Diese Leute findet man kaum auf den Strassen, sie sitzen in ihren klimatisierten Häusern mit Strom und fliessendem Wasser. Diesen Leuten geht es aus finanzieller Sicht gut. Auf der anderen Seite jedoch, gibt es Kinder, Eltern und Grosseltern, welche diese Privilegien nicht besitzen. Sie kämpfen Tag für Tag um ihr Essen, ihr Trinken, ihren Schlafplatz und schlussendlich um ihr Überleben. Alle müssen mithelfen, ob klein, jung, alt, gross, dick oder dünn, jeder Liiere zählt. Die Menschen wirken erschöpft, sie sind müde und kraftlos, dass einzige was ihnen hilft, ist ihr Glaube, ihre Familien und ihre Freunde, die sich alle gegenseitig unterstützen, wo sie können.  Diese Menschen zeigen mir erneut, wie dieser finanzielle Unterschied das glücklich Sein erschweren kann. Auf mich wirken diese Leute trotz allem keineswegs undankbar, im Gegenteil. Die ärmeren Leute in Assuan freuen sich über weitaus kleinere Dinge als wir es tun, Wertschätzung sei für sie sehr wichtig, verriet uns ein Händler auf der Strasse, und bekanntlich ist mit Wertschätzung auch Dankbarkeit verknüpft.
 
+![](bild1.jpg)
+
 # Zufriedenheit am Arbeitsplatz
 
 Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Zufriedenheit, verriet uns Herr Odermatt. Es sei wichtig, dass man sich ernstgenommen fühlt und vom Arbeitsgeber wertgeschätzt wird. Es sei wichtig, dass man sich selbst bewusst ist, welchen Beitrag man mit seiner Arbeit leistet und wie welchen Wert man als Person für das Unternehmen, die Gemeinde oder für den Staat hat. Wenn man sich der eigenen Wichtigkeit am Arbeitsplatz bewusst ist, verbessere es deutlich die Zufriedenheit am Arbeitsplatz.
@@ -46,6 +48,8 @@ Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Z
 > «Zufriedenheit am Arbeitsplatz ist wichtiger als der Lohn» ~ Ueli Käser
 
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr groß war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
+
+![](bild4.jpg)
 
 # Warum es nie genug sein wird
 
