@@ -3,14 +3,15 @@ title = "Was macht und glücklich?"
 date = "2023-05-04"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "sunset-g8ef3de9b2_640.jpg"
-description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch aus irgendeinem Grund fühlen wir uns trotzdem oft unglücklich. Doch was macht uns langfristig glücklich. In unserer Gesellschaft gibt es viele Antworten auf diese Frage, doch welche stimmen wirklich?"
+description = "Wir haben heutzutage alles, was es zum überleben braucht. Doch aus irgendeinem Grund fühlen wir uns trotzdem oft unglücklich. Doch was macht uns langfristig glücklich? In unserer Gesellschaft gibt es viele Antworten auf diese Frage, doch welche stimmen wirklich?"
 +++
-
-
 **Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird ab Tag eins eingetrichtert, dass Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer erfolgreich ist, verdient viel Geld und wird glücklich und zufrieden. Brauchen wir all das? Brauchen wir viel Geld, um glücklich zu werden?**
 
 # Wie wird Glück gemessen?
+
+![](bild3.jpg "Reto Odermatt")
 
 In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtschaftswissenschaftlichen Fakultät WWZ, fanden wir Antworten auf diese Frage. Er verriet uns, dass die üblichste Variante, um Glück zu messen sei die Menschen zu fragen: «Auf einer Skala von sehr unzufrieden bis sehr zufrieden, wie zufrieden insgesamt sind Sie mit Ihrem Leben?» Man überliesse die Frage den Menschen selbst, indem sie sich selbst einschätzen. Dabei sei aber die Validität ein wichtiger Aspekt. Wie verlässlich sind die Selbsteinschätzungen der Menschen? Diese «Messfehler» würden aber hintergangen werden können, indem man weitere Aspekte dazu nimmt, wie zum Beispiel, ob die Menschen mehr oder weniger lachen, ob sie objektiv gemessen gesundheitlich gesünder sind oder ob sie einen tieferen Stresspegel haben. So könne ein Abgleich gemacht werden, ob die Aussagen aussagekräftig sind, erklärt Odermatt.
 
